@@ -1,5 +1,7 @@
 a=int(input())
 b=int(input())
-c=a/b
-if(c==0):
+if(b==0):
 	print("NaN")
+else:
+	print(a/b)
+
