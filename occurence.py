@@ -6,3 +6,4 @@ for i in range(len(a) - len(b) + 1):
         count += 1
 print(count)
 
+
